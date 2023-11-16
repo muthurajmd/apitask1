@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/apitask1/static/css/main.2884549e.css",
+    "main.js": "/apitask1/static/js/main.74fbb096.js",
+    "static/js/787.d63ef48f.chunk.js": "/apitask1/static/js/787.d63ef48f.chunk.js",
+    "static/media/logo.svg": "/apitask1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/apitask1/index.html",
+    "main.2884549e.css.map": "/apitask1/static/css/main.2884549e.css.map",
+    "main.74fbb096.js.map": "/apitask1/static/js/main.74fbb096.js.map",
+    "787.d63ef48f.chunk.js.map": "/apitask1/static/js/787.d63ef48f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2884549e.css",
+    "static/js/main.74fbb096.js"
+  ]
+}
